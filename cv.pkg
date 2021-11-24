@@ -1,0 +1,10 @@
+v 1.0.0
+d 'CV': Coefficient of variation
+d 
+d Stata module to compute coefficient of variation after regress
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F cv.ado
+F cv.sthlp
